@@ -1,0 +1,12 @@
+{
+  "name": "TheWolves",
+  "displayName": "TheWolves",
+  "expo": {
+    "name": "TheWolves",
+    "slug": "TheWolves",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
